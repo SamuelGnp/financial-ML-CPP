@@ -12,4 +12,4 @@ add_executable(financial_ML_CPP
         src/utils/HelpingCalculations.cpp
         src/utils/HelpingCalculations.h
         main.cpp
-        README.md)
+        ../README.md)
